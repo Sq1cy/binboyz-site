@@ -14,7 +14,7 @@ import {
 import "./index.css";
 
 // ─── JOBBER BOOKING LINK ──────────────────────────────────────────────────────
-const JOBBER_BOOKING_URL = "https://clienthub.getjobber.com/hubs/b0a4965a-f82a-458a-8803-cb6c2b747614/public/requests/2759676/new";
+const JOBBER_BOOKING_URL = "https://clienthub.getjobber.com/hubs/b0a4965a-f82a-458a-8803-cb6c2b747614/public/requests/2759675/new";
 // ─────────────────────────────────────────────────────────────────────────────
 
 const pricing = [
