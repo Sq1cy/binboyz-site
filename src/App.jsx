@@ -48,9 +48,9 @@ const faqs = [
 ];
 
 const beforeAfterPairs = [
-  { before: "/photos/before1.jpg", after: "/photos/after1.jpg", label: "Gray bin — sludge buildup" },
-  { before: "/photos/before2.jpg", after: "/photos/after2.jpg", label: "Blue bin — grime & debris" },
-  { before: "/photos/before3.jpg", after: "/photos/after3.jpg", label: "Wall buildup — full clean" },
+  { before: "/photos/before1.jpg", after: "/photos/after1.jpg", label: "Same gray bin — rust & grime gone" },
+  { before: "/photos/before2.jpg", after: "/photos/after2.jpg", label: "Same blue bin — buildup removed" },
+  { before: "/photos/before3.jpg", after: "/photos/after3.jpg", label: "Same gray bin — moss & debris cleared" },
 ];
 
 function BeforeAfter({ before, after, label }) {
