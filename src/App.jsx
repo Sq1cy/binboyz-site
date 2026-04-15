@@ -143,7 +143,7 @@ export default function App() {
       <main>
         {/* ── HERO ── */}
         <section className="relative overflow-hidden">
-          <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(163,230,53,0.12),transparent_60%)]" />
+          <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(163,230,53,0.12),transparent_60%)] pointer-events-none" />
           <div className="mx-auto max-w-6xl px-5 py-20 lg:py-28 text-center">
             <span className="inline-block rounded-full border border-lime-400/30 bg-lime-400/10 px-4 py-1 text-xs font-bold uppercase tracking-widest text-lime-300 mb-6">
               Hot water · Sanitized · Fresh finish
